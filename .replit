@@ -1,16 +1,1 @@
-<!doctype-html>
-<head></head>
 
-#this code is making the background green and writing in the title in blue
-
-<body style="background-color:green"
-</body>
-  <h1> The Greatest Football Players of All Time </h1>
-  <style>
-  h1 {
-  color:white;
-  font-size:40px;
-  font-family: Arial;
-  }
-  
- 
